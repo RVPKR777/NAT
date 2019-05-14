@@ -1,4 +1,4 @@
-This code helps the admins to logoff computers in a effective way directly from the server system.
+A simple python network application which helps the admins to logoff computers in a effective way directly from the server system.
 
 
 Requirements:
